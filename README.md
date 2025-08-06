@@ -30,3 +30,25 @@ http://localhost:3000/
 ```
 https://cloudinary.com/documentation/node_quickstart
 ```
+
+
+```
+npm install cloudinary
+````
+
+```
+npm install dotenv
+```
+
+
+https://cloudinary.com/documentation/node_quickstart
+
+```
+export CLOUDINARY_URL=cloudinary://API_KEY:API_SECRET@CLOUD_NAME
+```
+
+```
+node cloudinary-conf.js 
+```
+
+https://github.com/cloudinary-devs/cld-node-sdk-quick-start
